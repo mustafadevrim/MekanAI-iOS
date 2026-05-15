@@ -44,7 +44,7 @@ Haberleşme: Nesneler arası iletişimde Closure ve Delegation tasarım kalıpla
 
 --------------------Kurulum-----------------------------
 
-Bu depoyu klonlayın: git clone https://github.com/kullaniciadi/MekanAI.git
+Bu depoyu klonlayın: git clone https://github.com/mustafadevrim/MekanAI-iOS
 
 AIService.swift dosyasını açın.
 
