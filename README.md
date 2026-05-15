@@ -1,4 +1,5 @@
 --------------------MekanAI - Akıllı Şehir Rehberi-----------------------------
+
 MekanAI, kullanıcıların anlık konumlarına ve kişisel tercihlerine göre yapay zeka destekli mekan önerileri sunan, iOS platformu için geliştirilmiş modern bir şehir keşif uygulamasıdır. Bu proje, karmaşık veri yönetimi, yapay zeka entegrasyonu ve kullanıcı dostu harita deneyimini bir araya getirmektedir.
 
 
